@@ -1,30 +1,4 @@
 # credit-risk-prediction
-ESTRUTURA INICIAL
-
-Previsão de Inadimplência com Machine Learning
+O presente projeto tem como objetivo aplicar técnicas de Ciência de Dados e Machine Learning para analisar o comportamento financeiro de clientes e identificar possíveis riscos de inadimplência. A proposta consiste em explorar uma base de dados real, identificar padrões relacionados ao histórico de pagamentos e desenvolver modelos preditivos capazes de estimar a probabilidade de um cliente não cumprir suas obrigações financeiras. Por meio da utilização de Python e bibliotecas de análise de dados, o projeto busca demonstrar como a tecnologia pode auxiliar instituições financeiras na avaliação de riscos e na tomada de decisões mais estratégicas e fundamentadas em dados. Além disso, o desenvolvimento deste trabalho tem como finalidade aprimorar e demonstrar conhecimentos práticos em análise exploratória, estatística, preparação de dados e aprendizado de máquina.
 
 
-1. Sobre o projeto
-
-
-Explique qual problema o projeto pretende resolver.
-
-2. Objetivo
-
-
-Explique o que você quer descobrir ou prever.
-
-3. Base de dados
-
-
-Informe que utilizará a base Default of Credit Card Clients, da UCI, com 30 mil registros.
-
-4. Tecnologias
-
-
-Python, Pandas, Matplotlib e Scikit-learn (conforme forem utilizadas).
-
-5. Etapas do projeto
-
-
-Análise exploratória, preparação dos dados, treinamento, avaliação e conclusões.
